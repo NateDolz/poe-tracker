@@ -1,0 +1,12 @@
+/home/natedolz/workspace/poe-tracker/Database/bin/Debug/netcoreapp3.1/Database.deps.json
+/home/natedolz/workspace/poe-tracker/Database/bin/Debug/netcoreapp3.1/Database.dll
+/home/natedolz/workspace/poe-tracker/Database/bin/Debug/netcoreapp3.1/Database.pdb
+/home/natedolz/workspace/poe-tracker/Database/obj/Debug/netcoreapp3.1/Database.csprojAssemblyReference.cache
+/home/natedolz/workspace/poe-tracker/Database/obj/Debug/netcoreapp3.1/Database.AssemblyInfoInputs.cache
+/home/natedolz/workspace/poe-tracker/Database/obj/Debug/netcoreapp3.1/Database.AssemblyInfo.cs
+/home/natedolz/workspace/poe-tracker/Database/obj/Debug/netcoreapp3.1/Database.csproj.CoreCompileInputs.cache
+/home/natedolz/workspace/poe-tracker/Database/obj/Debug/netcoreapp3.1/Database.dll
+/home/natedolz/workspace/poe-tracker/Database/obj/Debug/netcoreapp3.1/Database.pdb
+/home/natedolz/workspace/poe-tracker/Database/bin/Debug/netcoreapp3.1/Database.runtimeconfig.json
+/home/natedolz/workspace/poe-tracker/Database/bin/Debug/netcoreapp3.1/Database.runtimeconfig.dev.json
+/home/natedolz/workspace/poe-tracker/Database/obj/Debug/netcoreapp3.1/Database.genruntimeconfig.cache
